@@ -6,6 +6,8 @@ This repository accompanies the manuscript:
 
 **Authors:** Dimitrios Gourzoulidis, Soumaya Elkantassi, and Serafim Kalliadasis.
 
+**Preprint:** [arXiv:2607.15291](https://arxiv.org/abs/2607.15291)
+
 ## Overview
 
 We study physics-informed neural networks (PINNs) for nonlinear and nonlocal gradient-flow equations arising in dynamic density functional theory (DDFT). The approach uses a modified Lorentzian activation function,
@@ -35,4 +37,4 @@ The experiment implementations and reference data have not yet been added to thi
 
 If you use this work, please cite:
 
-D. Gourzoulidis, S. Elkantassi, and S. Kalliadasis, *A Physics-Informed Neural Network with a Modified Lorentzian Activation for Nonlocal Gradient-Flow Equations in Dynamic Density Functional Theory* (manuscript, 2026).
+D. Gourzoulidis, S. Elkantassi, and S. Kalliadasis, *A Physics-Informed Neural Network with a Modified Lorentzian Activation for Nonlocal Gradient-Flow Equations in Dynamic Density Functional Theory* *arXiv preprint* [arXiv:2607.15291](https://arxiv.org/abs/2607.15291) (2026).
